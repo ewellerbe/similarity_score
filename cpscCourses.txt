@@ -1,0 +1,25 @@
+CPSC 4030 - Data Visualization
+CPSC 4040 - Computer Graphics Images
+CPSC 4050 - Computer Graphics
+CPSC 4070 - Applied Computer Vision
+CPSC 4110 - Virtual Reality Systems
+CPSC 4120 - Eye Tracking Methodology and Applications
+CPSC 4140 - Human and Computer Interaction
+CPSC 4150 - Mobile Device Software Development
+CPSC 4160 - 2-D Game Engine Construction
+CPSC 4170 - 3D Game Programming: Algorithms and Techniques
+CPSC 4180 - Usable Privacy and Security
+CPSC 4190 - Physical Modeling and Animation
+CPSC 4200 - Computer Security Principles
+CPSC 4240 - System Administration and Security
+CPSC 4280 - Design and Implementation of Programming Languages
+CPSC 4300 - Applied Data Science
+CPSC 4420 - Artificial Intelligence
+CPSC 4430 - Machine Learning: Implementation and Evaluation
+CPSC 4440 - Cloud Computing Architecture
+CPSC 4550 - Computational Science
+CPSC 4620 - Database Management Systems
+CPSC 4720 - Software Development Methodology
+CPSC 4740 - Fault Tolerance and Reliability in High-Performance Computing
+CPSC 4770 - Distributed and Cluster Computing
+CPSC 4780 - General Purpose Computation on Graphical Processing Units
